@@ -1,0 +1,6 @@
+.env
+reports/
+seen_entries.json
+__pycache__/
+*.pyc
+.pytest_cache/
