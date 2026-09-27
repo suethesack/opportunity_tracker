@@ -1,0 +1,15 @@
+{
+  "feeds": [
+    "https://www.freecodecamp.org/news/tag/hackathons/rss/",
+    "https://dev.to/feed/tag/hackathon"
+  ],
+  "keywords": [
+    "electrical engineering",
+    "electronics",
+    "embedded systems",
+    "robotics",
+    "IoT",
+    "hardware"
+  ],
+  "min_score": 5
+}

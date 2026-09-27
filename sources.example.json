@@ -1,0 +1,15 @@
+{
+  "feeds": [
+    "https://devpost.com/hackathons.rss",
+    "https://mlh.io/seasons/2026/events.rss"
+  ],
+  "keywords": [
+    "electrical engineering",
+    "electronics",
+    "embedded systems",
+    "robotics",
+    "IoT",
+    "hardware"
+  ],
+  "min_score": 5
+}
